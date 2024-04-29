@@ -8,7 +8,6 @@
    - Implemented recommendations from "Secure Coding in C and C++" by Robert C. Seacord.
 
 ### 2. Evaluation and Assessment of Risk:
-   - Utilized NIST SP 800-30 and ISO/IEC 27005:2018 for comprehensive risk assessments.
    - Balanced the costs and benefits of risk mitigation strategies to ensure optimal resource allocation.
 
 ### 3. Zero Trust:
